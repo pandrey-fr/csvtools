@@ -1,0 +1,6 @@
+[DESIGN]
+max-args=6
+# As most functions are actually methods, restricting them to five arguments
+# is reducing them to four, due to the presence of 'self', which is not seen
+# by the user. A parcimonious use of an additionnal argument is therefore
+# instituted.
