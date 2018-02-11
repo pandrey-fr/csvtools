@@ -1,6 +1,6 @@
-# CSVtools
+# CSVTools
 
-CSVtools is a Python package grouping utilitarian classes to perform various
+CSVTools is a Python package grouping utilitarian classes to perform various
 tasks revolving around .csv files manipulation. One of the common objectives
 of this package's class is to be scalable to large csv files and adjustable
 to the quantity of RAM available, at the sole cost of dilating execution time.
@@ -21,11 +21,11 @@ These tasks this package tackles include :
 **Dependencies**
 
 - Python 3 (>= 3.3) &nbsp;&nbsp; -- &nbsp;&nbsp; Python 2.x is **not** supported.
-- Pandas (>= 0.20) &nbsp;&nbsp;&nbsp; -- &nbsp;&nbsp; third-party package
+- Pandas (>= 0.20) &nbsp;&nbsp; -- &nbsp;&nbsp; third-party package
   distributed under BSD 3-Clause License.
 - YAPTools &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -- &nbsp;&nbsp; a toolbox developped commonly
-  with CSVtools, found [here](https://gihub.com/pandrey-fr/yaptools/).
+  &nbsp;&nbsp;&nbsp; -- &nbsp;&nbsp; a toolbox developped commonly
+  with CSVTools, found [here](https://gihub.com/pandrey-fr/yaptools/).
 
 **Downloading a copy of the repository**
 
