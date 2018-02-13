@@ -1,0 +1,8 @@
+# Don't track python cache and eggs files.
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Don't track installation folders.
+build/
+dist/
