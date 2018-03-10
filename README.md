@@ -24,8 +24,8 @@ These tasks this package tackles include :
 - Pandas (>= 0.20) &nbsp;&nbsp; -- &nbsp;&nbsp; third-party package
   distributed under BSD 3-Clause License.
 - YAPTools &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp; -- &nbsp;&nbsp; a toolbox developped commonly
-  with CSVTools, found [here](https://gihub.com/pandrey-fr/yaptools/).
+  &nbsp;&nbsp; -- &nbsp;&nbsp; a toolbox developped commonly
+  with CSVTools, found [here](https://github.com/pandrey-fr/yaptools/).
 
 **Downloading a copy of the repository**
 
