@@ -18,9 +18,11 @@ setuptools.setup(
     author='Paul Andrey',
     description='CSVTools - tools for csv files manipulation',
     long_description=open('README.md').read(),
+    license='MIT',
     url='https://github.com/pandrey-fr/csvtools/',
     install_requires=[
         'pandas >= 0.20.1',
+        'yaptools >= 0.1'
     ],
     classifiers=[
         "Programming Language :: Python",
