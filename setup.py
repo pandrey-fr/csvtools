@@ -7,12 +7,10 @@ Installation in a virtual environment is strongly advised.
 
 import setuptools
 
-import csvtools
-
 
 setuptools.setup(
     name='csvtools',
-    version=csvtools.__version__,
+    version='0.1',
     packages=setuptools.find_packages(),
     include_package_data=True,
     author='Paul Andrey',
